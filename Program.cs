@@ -12,7 +12,7 @@ namespace Conversor_deTemperaturas
         {
             double celcius, farenraid, kelvin;
 
-            Console.WriteLine("CONVERSOR DE TEMPERATURAS");
+            Console.WriteLine("CONVERSOR DE TEMPERATURA");
             Console.Write("Insira a temperatura em Ceucius: ");
             celcius = double.Parse(Console.ReadLine());
             Console.WriteLine(" ------------------------------");
